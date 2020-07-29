@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "DEV",
+      "link": "https://www.ofelizardo.com/",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Aqui você encontra tudo sobre DEV",
+        "url": "https://www.ofelizardo.com/"
+      },
+      "videos": [
+        {
+          "titulo": "O Framework Que Vai Mudar Como Você Faz Desenvolvimento Web Daqui Pra Frente",
+          "url": "https://www.youtube.com/watch?v=WVtijTZPZck"
+        },
+        {
+          "titulo": "Curso de HTML5 + CSS3 + JS atualizado em 2020",
+          "url": "https://www.youtube.com/watch?v=P8LxrpNQrTU"
+        },
+        {
+          "titulo": "3 Técnicas Que Eu Uso Para Aprender a Programar Qualquer Coisa (mesmo sem ter o dom da programação)",
+          "url": "https://www.youtube.com/watch?v=ZtMzB5CoekE"
+        },
+        {
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+        },
+        {
+          "titulo": "Autenticação no React Native / ReactJS com Context API & Hooks | Masterclass #12",
+          "url": "https://www.youtube.com/watch?v=KISMYYXSIX8"
+        },
+        {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+          "titulo": "Programador só escreve código...",
+          "url": "https://www.youtube.com/watch?v=phc7DkyqsoM"
+        },
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        }        
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Tudo sobre filmes",
+        "url": "https://www.ofelizardo.com/"
+      },
+      "videos": [
+        {
+          "titulo": "Bad Boys Para Sempre",
+          "url": "https://www.youtube.com/watch?v=jCCGGYvFjlw"
+        },
+        {
+          "titulo": "King’s Man: A Origem",
+          "url": "https://www.youtube.com/watch?v=prUwszgnYVw"
+        },
+        {
+          "titulo": "Sonic - O Filme",
+          "url": "https://www.youtube.com/watch?v=zQEjE_M2Esw"
+        },
+        {
+          "titulo": "Resgate",
+          "url": "https://www.youtube.com/watch?v=GMKKq_bYd0E"
+        }, 
+        {
+          "titulo": "Top Gun: Maverick",
+          "url": "https://www.youtube.com/watch?v=g4U4BQW9OEk"
+        }
+      ]
+    },
+    {
+      "titulo": "Nerdice",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Tudo sobre nerdice",
+        "url": "https://www.ofelizardo.com/"
+      },
+      "videos": [
+        {
+          "titulo": "The Boys S2 é de explodir cabeças!",
+          "url": "https://www.youtube.com/watch?v=kuO0RqtsdqE"
+        },
+        {
+          "titulo": "DARK PARA NOOBS: TUDO QUE VOCÊ PRECISA ENTENDER",
+          "url": "https://www.youtube.com/watch?v=6LeztwVjm7A"
+        },
+        {
+          "titulo": "Como os cientistas CRIAM uma VACINA?",
+          "url": "https://www.youtube.com/watch?v=zfWnJN87LeY"
+        },
+        {
+          "titulo": "Algoritmos que salvam vidas | Nerdologia Tech",
+          "url": "https://www.youtube.com/watch?v=m0ibiy-NX9c"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
