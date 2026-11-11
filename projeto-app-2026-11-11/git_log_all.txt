@@ -1,0 +1,26 @@
+commit 28451500caea32384ec6d9c7182c896ed6985be2
+Author: Anderson de Oliveira Felizardo <anderson.felizardo@live.com>
+Date:   Mon May 31 18:09:10 2021 -0300
+
+    Add-Links-Template-Portal-Cliente
+
+ img/Fundo.png                      | Bin 0 -> 235447 bytes
+ img/Pessoas.png                    | Bin 0 -> 2370 bytes
+ img/Telefone.png                   | Bin 0 -> 1165 bytes
+ img/Whatsapp.png                   | Bin 0 -> 1158 bytes
+ img/app-store.png                  | Bin 0 -> 19549 bytes
+ img/barra-amarela.png              | Bin 0 -> 262 bytes
+ img/barra.png                      | Bin 0 -> 264 bytes
+ img/google-play.png                | Bin 0 -> 25884 bytes
+ img/logo-branco.png                | Bin 0 -> 3102 bytes
+ img/logo.png                       | Bin 0 -> 6700 bytes
+ img/moedas.png                     | Bin 0 -> 38961 bytes
+ img/pessoas-grande.png             | Bin 0 -> 226531 bytes
+ img/prancheta.png                  | Bin 0 -> 40456 bytes
+ img/telefone-grande.png            | Bin 0 -> 96866 bytes
+ img/whats.png                      | Bin 0 -> 89091 bytes
+ index.html                         |  59 ++++++++++
+ template-docusign/index.html       |  90 +++++++++++++++
+ template-dynamics/index.html       | 228 +++++++++++++++++++++++++++++++++++++
+ template-portal-cliente/index.html | 128 +++++++++++++++++++++
+ 19 files changed, 505 insertions(+)

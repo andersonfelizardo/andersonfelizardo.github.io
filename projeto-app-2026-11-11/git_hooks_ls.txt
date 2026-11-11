@@ -1,0 +1,17 @@
+total 72
+drwxrwxr-x 2 jules jules 4096 Nov 11 13:57 .
+drwxrwxr-x 7 jules jules 4096 Nov 11 13:58 ..
+-rwxrwxr-x 1 jules jules  478 Nov 11 13:57 applypatch-msg.sample
+-rwxrwxr-x 1 jules jules  896 Nov 11 13:57 commit-msg.sample
+-rwxrwxr-x 1 jules jules 4726 Nov 11 13:57 fsmonitor-watchman.sample
+-rwxrwxr-x 1 jules jules  189 Nov 11 13:57 post-update.sample
+-rwxrwxr-x 1 jules jules  424 Nov 11 13:57 pre-applypatch.sample
+-rwxrwxr-x 1 jules jules 1649 Nov 11 13:57 pre-commit.sample
+-rwxrwxr-x 1 jules jules  416 Nov 11 13:57 pre-merge-commit.sample
+-rwxrwxr-x 1 jules jules 1374 Nov 11 13:57 pre-push.sample
+-rwxrwxr-x 1 jules jules 4898 Nov 11 13:57 pre-rebase.sample
+-rwxrwxr-x 1 jules jules  544 Nov 11 13:57 pre-receive.sample
+-rwxrwxr-x 1 jules jules 1492 Nov 11 13:57 prepare-commit-msg.sample
+-rwxrwxr-x 1 jules jules 2783 Nov 11 13:57 push-to-checkout.sample
+-rwxrwxr-x 1 jules jules 2308 Nov 11 13:57 sendemail-validate.sample
+-rwxrwxr-x 1 jules jules 3650 Nov 11 13:57 update.sample
